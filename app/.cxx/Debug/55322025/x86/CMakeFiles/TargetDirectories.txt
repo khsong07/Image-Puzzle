@@ -1,3 +1,0 @@
-C:/Users/Ssong/AndroidStudioProjects/finalproject/app/.cxx/Debug/55322025/x86/CMakeFiles/OpenCLDriver.dir
-C:/Users/Ssong/AndroidStudioProjects/finalproject/app/.cxx/Debug/55322025/x86/CMakeFiles/edit_cache.dir
-C:/Users/Ssong/AndroidStudioProjects/finalproject/app/.cxx/Debug/55322025/x86/CMakeFiles/rebuild_cache.dir
