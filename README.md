@@ -1,6 +1,30 @@
 # Image-Puzzle
 <img src="https://github.com/user-attachments/assets/aff6d5c5-42be-4b5f-9855-cad4d7ead38b" width="400">
 
+# 📂 Project Structure
+```
+Image-Puzzle
+├── app
+│   ├── 📂 src
+│   │   ├── 📂 main
+│   │   │   ├── 📂 java/com/example/finalproject
+│   │   │   ├── 📂 cpp
+│   │   │   ├── 📂 res
+│   │   │   ├── AndroidManifest.xml
+│   │   │   └── CMakeLists.txt
+│   │   ├── 📂 test
+│   │   ├── 📂 androidTest
+│   ├── build.gradle.kts
+│   ├── proguard-rules.pro
+│   └── .gitignore
+├── build.gradle.kts
+├── settings.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── .gitignore
+├── README.md
+```
 ## Motivation🚀
 The goal of this project was to develop an Android application that showcases real-time image processing performance differences between the CPU and GPU. Additionally, it introduces users to fundamental image processing concepts through an engaging game. Various sensors available on the board were utilized to enhance the gaming experience.
 ```
