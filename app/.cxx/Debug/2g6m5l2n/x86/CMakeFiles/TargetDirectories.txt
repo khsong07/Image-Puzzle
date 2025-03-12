@@ -1,0 +1,3 @@
+C:/Users/Ssong/AndroidStudioProjects/finalproject/app/.cxx/Debug/2g6m5l2n/x86/CMakeFiles/finalproject.dir
+C:/Users/Ssong/AndroidStudioProjects/finalproject/app/.cxx/Debug/2g6m5l2n/x86/CMakeFiles/edit_cache.dir
+C:/Users/Ssong/AndroidStudioProjects/finalproject/app/.cxx/Debug/2g6m5l2n/x86/CMakeFiles/rebuild_cache.dir

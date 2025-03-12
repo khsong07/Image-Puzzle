@@ -1,0 +1,18 @@
+                        -HC:\Users\Ssong\AndroidStudioProjects\finalproject\app\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_PLATFORM=android-19
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=C:\Users\Ssong\AppData\Local\Android\Sdk\ndk\18.1.5063045
+-DCMAKE_ANDROID_NDK=C:\Users\Ssong\AppData\Local\Android\Sdk\ndk\18.1.5063045
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\Ssong\AppData\Local\Android\Sdk\ndk\18.1.5063045\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\Ssong\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\Ssong\AndroidStudioProjects\finalproject\app\build\intermediates\cxx\Debug\55322025\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\Ssong\AndroidStudioProjects\finalproject\app\build\intermediates\cxx\Debug\55322025\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\Users\Ssong\AndroidStudioProjects\finalproject\app\.cxx\Debug\55322025\x86
+-GNinja
+                        Build command args: []
+                        Version: 2

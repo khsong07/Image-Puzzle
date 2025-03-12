@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Ssong/AndroidStudioProjects/finalproject/app/.cxx/Debug/55322025/x86",
+  "command": "C:\\Users\\Ssong\\AppData\\Local\\Android\\Sdk\\ndk\\18.1.5063045\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/Ssong/AppData/Local/Android/Sdk/ndk/18.1.5063045/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/Ssong/AppData/Local/Android/Sdk/ndk/18.1.5063045/sysroot -DOpenCLDriver_EXPORTS -IC:/Users/Ssong/Desktop/OpenCL_lib_and_include/OpenCL_lib_and_include/include -IC:/Users/Ssong/AndroidStudioProjects/finalproject/app/src/main/cpp/src/main/cpp -isystem C:/Users/Ssong/AppData/Local/Android/Sdk/ndk/18.1.5063045/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\OpenCLDriver.dir\\OpenCLDriver.c.o -c C:\\Users\\Ssong\\AndroidStudioProjects\\finalproject\\app\\src\\main\\cpp\\OpenCLDriver.c",
+  "file": "C:\\Users\\Ssong\\AndroidStudioProjects\\finalproject\\app\\src\\main\\cpp\\OpenCLDriver.c"
+}
+]
