@@ -17,11 +17,12 @@ Image-Puzzle
 │   ├── build.gradle.kts
 │   ├── proguard-rules.pro
 │   └── .gitignore
-├── build.gradle.kts
-├── settings.gradle.kts
-├── gradle.properties
-├── gradlew
-├── gradlew.bat
+├── config
+│   ├── build.gradle.kts
+│   ├── gradle.properties
+│   ├── gradlew
+│   ├── gradlew.bat
+│   ├── settings.gradle.kts
 ├── .gitignore
 ├── README.md
 ```
