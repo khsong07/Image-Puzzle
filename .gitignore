@@ -16,3 +16,10 @@ local.properties
 /gradle
 /.idea
 build
+*.log
+*.jks
+*.keystore
+google-services.json
+*.hprof
+output.json
+*.apk
