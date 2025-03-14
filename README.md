@@ -1,5 +1,5 @@
 # Image-Puzzle
-<img src="https://github.com/user-attachments/assets/aff6d5c5-42be-4b5f-9855-cad4d7ead38b" width="400">
+<img src="./assets/sample img.png" width="400">
 
 # 📂 Project Structure
 ```
@@ -52,7 +52,7 @@ The game consists of two main pages:
    - The highest score is displayed in the top-right corner, while the current score updates in the bottom-left corner.
    - The "Stop" button allows the user to exit the game at any time.
    <br>   
-   <img src="https://github.com/user-attachments/assets/1ccbe7a7-8a0e-4fd7-8d36-a7f70670c3a5" width="600">
+   <img src="./assets/layoutpreview.png" width="600">
 
 ## About Game🎰
 ### 1. How to play
@@ -69,15 +69,15 @@ The game consists of two main pages:
    - Inversion
      <br>
      <br>
-      <img src="https://github.com/user-attachments/assets/a2a81dde-4fe0-43fe-865c-3cd0765bfe27" width="600">
+      <img src="./assets/image processing.png" width="600">
 
 ### 3. 7-segments
    - The highest score is displayed using a 7-segment display attached to the board.
    - A custom device driver was developed to interface with the 7-segment display.
      <br><br>
-      <img src="https://github.com/user-attachments/assets/075877b3-f40d-4286-8e59-b7e10a6e2881" width="600">
+      <img src="./assets/7-segments.png" width="600">
 
 ## Demo 
-![KakaoTalk_20250312_010545288](https://github.com/user-attachments/assets/32eba419-4201-487d-80bd-9404560333cd)
+![KakaoTalk_20250312_010545288](./assets/demo.gif)
 
 
